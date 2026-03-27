@@ -33,8 +33,8 @@ The **CSM Traffic and Fraud Analyst** skill transforms Gemini CLI into an expert
 Simply start a conversation with Gemini CLI and ask for an analysis. The skill will greet you and ask for the specific mode.
 
 ### Example Commands:
-- *"Führe einen Fraud Check für die Nikon CSV durch."*
-- *"Run a Campaign Start Check for the Discover Airlines log."*
+- *"Führe einen Fraud Check für die Example Corp CSV durch."*
+- *"Run a Campaign Start Check for the Sample Airline log."*
 
 ### Analysis Modes:
 - **Fraud Check**: Focuses on "Vampire Traffic" (01:00-05:00), hourly spikes, User-Agent consistency, and IP concentration.
